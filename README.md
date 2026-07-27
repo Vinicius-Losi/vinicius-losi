@@ -9,53 +9,31 @@
 ### 🤖 UI/UX Designer & Product Designer | Co-founder Neurohub - Technology
 
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    align="left"
+    alt="UI/UX Designer"
+    title="UI/UX Designer"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/figma"
+ />
 
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    align="left"
+    alt="Product Designer"
+    title="Product Designer"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/adobecreativecloud"
+ />
+
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+    align="left"
+    alt="Co-founder"
+    title="Co-founder"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/openai"
+ />
+
 <br/>
 <br/>
