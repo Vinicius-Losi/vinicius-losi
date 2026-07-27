@@ -8,32 +8,29 @@
 
 ### 🤖 UI/UX Designer & Product Designer | Co-founder Neurohub - Technology
 
-<img 
+
+<img
     align="left"
     alt="UI/UX Designer"
     title="UI/UX Designer"
     width="30px"
-    style="padding-right: 10px;"
     src="https://cdn.simpleicons.org/figma"
- />
+/>
 
-<img 
+<img
     align="left"
     alt="Product Designer"
     title="Product Designer"
     width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/adobecreativecloud"
- />
+    src="https://cdn.simpleicons.org/penpot"
+/>
 
-<img 
+<img
     align="left"
     alt="Co-founder"
     title="Co-founder"
     width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/openai"
- />
+    src="https://api.iconify.design/tabler:rocket.svg"
+/>
 
-<br/>
-<br/>
+<br/><br/>
