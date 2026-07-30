@@ -10,7 +10,7 @@ Seja bem-vindo(a) <span style="color: #2EA043;">>_</span>
 </p>
 
 <h1 style="margin-bottom: 0; border-bottom: none;">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Vinicius+Losi|" alt="Vinicius Losi">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Marcos+V.+Silva+Lopes|" alt="Vinicius Losi">
 </h1>
 
 <h3 style="font-family: monospace; color: #58A6FF; font-weight: normal; margin-top:0;">
