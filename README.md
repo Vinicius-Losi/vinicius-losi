@@ -9,69 +9,75 @@
 Seja bem-vindo(a) <span style="color: #2EA043;">>_</span>
 </p>
 
-<!-- Nome com Animação -->
 <h1 style="margin-bottom: 0; border-bottom: none;">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Marcos+V.+Silva+Lopes|" alt="Marcos V. Silva Lopes">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Vinicius+Losi|" alt="Vinicius Losi">
 </h1>
 
-<!-- Subtítulo -->
-<h3 style="font-family: monospace; color: #58A6FF; font-weight: normal; margin-top: 0px;">
-Motion Design • UI/UX • IA <span style="color: #58A6FF;">_</span>
+<h3 style="font-family: monospace; color: #58A6FF; font-weight: normal; margin-top:0;">
+Motion Design • UI/UX • IA <span style="color:#58A6FF;">_</span>
 </h3>
 
-<!-- Descrição -->
-<p style="color: #8B949E; font-size: 15px; line-height: 1.6; font-family: sans-serif; max-width: 600px;">
+<p style="color:#8B949E;font-size:15px;line-height:1.6;font-family:sans-serif;max-width:600px;">
 Sou cofundador da Neurohub e atuo na criação de interfaces intuitivas e narrativas visuais que conectam o usuário aos objetivos do negócio.<br>
-Aplico conceitos avançados de usabilidade para desenvolver experiências digitais fluidas, estratégicas e orientadas à conversão.<br>
+Aplico conceitos avançados de usabilidade para desenvolver experiências digitais fluidas, estratégicas e orientadas à conversão.
 </p>
 
 <br>
 
-<!-- Redes Sociais -->
-<a href="https://www.linkedin.com/in/vinicius-losi-9b6a69250/"><img src="./linkedin-svg.svg" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/vinicius_losi/"><img src="./instagram-svg.svg" alt="Instagram"></a>
-<a href="https://api.whatsapp.com/send/?phone=556792532238&text&type=phone_number&app_absent=0"><img src="./wpp-svg.svg" alt="WhatsApp"></a>
+<a href="https://www.linkedin.com/in/vinicius-losi-9b6a69250/">
+<img src="./linkedin-svg.svg" alt="LinkedIn">
+</a>
 
-<!-- Coluna do Grafismo -->
-<td width="30%" align="center" valign="middle" style="border: none;">
-<img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
-<br><br>
+<a href="https://www.instagram.com/vinicius_losi/">
+<img src="./instagram-svg.svg" alt="Instagram">
+</a>
 
-<a href="https://neurohub.dev.br">
-<img src="./ver.svg" alt="Botão Ver">
+<a href="https://api.whatsapp.com/send/?phone=556792532238&text&type=phone_number&app_absent=0">
+<img src="./wpp-svg.svg" alt="WhatsApp">
 </a>
 
 </td>
+
+<!-- COLUNA DA DIREITA -->
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./folder_black.png"
+width="100%"
+style="max-width:150px;border-radius:30px;object-fit:cover;">
+
+<br><br>
+
+<a href="https://neurohub.dev.br">
+<img src="./ver.svg">
+</a>
+
+</td>
+
 </tr>
 </table>
 
 <br>
-<hr style="border-color: #30363D;">
+<hr style="border-color:#30363D;">
 <br>
 
-<!-- Tecnologias -->
 <div align="left">
 
-<!-- Adobe Premiere Pro -->
-<img src="https://cdn.simpleicons.org/adobepremierepro/999999" width="45" title="Adobe Premiere Pro" alt="Adobe Premiere Pro">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./premiere.svg" width="45" title="Adobe Premiere">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Adobe After Effects -->
-<img src="https://cdn.simpleicons.org/adobeaftereffects/999999" width="45" title="Adobe After Effects" alt="Adobe After Effects">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./after-effects.svg" width="45" title="Adobe After Effects">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Figma -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./figma.svg" width="45" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- Blender -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" title="Blender" alt="Blender">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./blender.svg" width="45" title="Blender">
 
 </div>
 
-<!-- SEÇÃO ATUALMENTE -->
-<h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase;">
-<span style="color: #58A6FF;">🧠</span> Atualmente
+<h3 style="font-family: monospace; color:#8B949E;font-weight:normal;text-transform:uppercase;">
+🧠 Atualmente
 </h3>
 
-<p style="color: #8B949E; font-size: 15px; line-height: 2.2; font-family: sans-serif; margin-top: 8px;">
+<p style="color:#8B949E;font-size:15px;line-height:2.2;font-family:sans-serif;margin-top:8px;">
 &nbsp;&nbsp;[ / ]&nbsp;&nbsp;Motion Design &amp; Video Editing<br>
 &nbsp;&nbsp;[ &gt; ]&nbsp;&nbsp;Design de Interfaces Digitais<br>
 &nbsp;&nbsp;[ # ]&nbsp;&nbsp;UI/UX, Interfaces Estratégicas &amp; Usabilidade<br>
