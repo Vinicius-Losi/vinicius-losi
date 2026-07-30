@@ -1,35 +1,79 @@
-# 👩🏻‍💻 Marcos Vinicius
+<!-- CABEÇALHO E BIO -->
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr>
 
-*Especialista em UI/UX e Design de Produtos Digitais, focado na criação de interfaces estratégicas, prototipagem e usabilidade focada em conversão. Atuo desenhando experiências visuais funcionais que conectam as necessidades dos usuários aos objetivos do negócio, Tambem sou Co-fundador da Neurohub, empresa focada em desenvolvimento de soluções tecnológicas, automação, Business Intelligence e impressão 3D.*
+<!-- Coluna de Texto -->
+<td width="70%" valign="top" style="border: none;">
 
+<p style="font-family: monospace; color: #8B949E; font-size: 13px; text-transform: uppercase;">
+Seja bem-vindo(a) <span style="color: #2EA043;">>_</span>
+</p>
 
+<!-- Nome com Animação -->
+<h1 style="margin-bottom: 0; border-bottom: none;">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1200&color=FFFFFF&vCenter=true&width=600&lines=Marcos+V.+Silva+Lopes|" alt="Marcos V. Silva Lopes">
+</h1>
 
----
+<!-- Subtítulo -->
+<h3 style="font-family: monospace; color: #58A6FF; font-weight: normal; margin-top: 0px;">
+Motion Design • UI/UX • IA <span style="color: #58A6FF;">_</span>
+</h3>
 
-### 🤖 UI/UX Designer & Product Designer | Co-founder Neurohub - Technology
+<!-- Descrição -->
+<p style="color: #8B949E; font-size: 15px; line-height: 1.6; font-family: sans-serif; max-width: 600px;">
+Sou cofundador da Neurohub e atuo na criação de interfaces intuitivas e narrativas visuais que conectam o usuário aos objetivos do negócio.<br>
+Aplico conceitos avançados de usabilidade para desenvolver experiências digitais fluidas, estratégicas e orientadas à conversão.<br>
+</p>
 
-<img
-    align="left"
-    alt="UI/UX Designer"
-    title="UI/UX Designer"
-    width="30px"
-    src="https://cdn.simpleicons.org/figma"
-/>
+<br>
 
-<img
-    align="left"
-    alt="Product Designer"
-    title="Product Designer"
-    width="30px"
-    src="https://cdn.simpleicons.org/penpot"
-/>
+<!-- Redes Sociais -->
+<a href="https://www.linkedin.com/in/vinicius-losi-9b6a69250/"><img src="./linkedin-svg.svg" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/vinicius_losi/"><img src="./instagram-svg.svg" alt="Instagram"></a>
+<a href="https://api.whatsapp.com/send/?phone=556792532238&text&type=phone_number&app_absent=0"><img src="./wpp-svg.svg" alt="WhatsApp"></a>
 
-<img
-    align="left"
-    alt="Co-founder"
-    title="Co-founder"
-    width="30px"
-    src="https://api.iconify.design/tabler:rocket.svg"
-/>
+<!-- Coluna do Grafismo -->
+<td width="30%" align="center" valign="middle" style="border: none;">
+<img src="./folder_black.png" width="100%" style="max-width: 150px; border-radius: 30px; object-fit: cover;" alt="img_folder">
+<br><br>
 
-<br/><br/>
+<a href="https://neurohub.dev.br">
+<img src="./ver.svg" alt="Botão Ver">
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+<hr style="border-color: #30363D;">
+<br>
+
+<!-- Tecnologias -->
+<div align="left">
+
+<!-- Adobe Premiere Pro -->
+<img src="https://cdn.simpleicons.org/adobepremierepro/999999" width="45" title="Adobe Premiere Pro" alt="Adobe Premiere Pro">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Adobe After Effects -->
+<img src="https://cdn.simpleicons.org/adobeaftereffects/999999" width="45" title="Adobe After Effects" alt="Adobe After Effects">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- Blender -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" title="Blender" alt="Blender">&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<!-- SEÇÃO ATUALMENTE -->
+<h3 style="font-family: monospace; color: #8B949E; font-weight: normal; text-transform: uppercase;">
+<span style="color: #58A6FF;">🧠</span> Atualmente
+</h3>
+
+<p style="color: #8B949E; font-size: 15px; line-height: 2.2; font-family: sans-serif; margin-top: 8px;">
+&nbsp;&nbsp;[ / ]&nbsp;&nbsp;Motion Design &amp; Video Editing<br>
+&nbsp;&nbsp;[ &gt; ]&nbsp;&nbsp;Design de Interfaces Digitais<br>
+&nbsp;&nbsp;[ # ]&nbsp;&nbsp;UI/UX, Interfaces Estratégicas &amp; Usabilidade<br>
+&nbsp;&nbsp;[ % ]&nbsp;&nbsp;Inteligência Artificial Aplicada
+</p>
