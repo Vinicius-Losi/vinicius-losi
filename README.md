@@ -62,15 +62,16 @@ style="max-width:150px;border-radius:30px;object-fit:cover;">
 <br>
 
 <div align="left">
-
-<img src="./premiere.svg" width="45" title="Adobe Premiere">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./after-effects.svg" width="45" title="Adobe After Effects">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./figma.svg" width="45" title="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="./blender.svg" width="45" title="Blender">
-
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Blender -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" title="Blender" alt="Blender">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Photoshop -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" title="Adobe Photoshop" alt="Adobe Photoshop">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Adobe Premiere Pro -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobepremierepro.svg" width="45" title="Adobe Premiere Pro" alt="Adobe Premiere Pro">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Adobe After Effects -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobeaftereffects.svg" width="45" title="Adobe After Effects" alt="Adobe After Effects">
 </div>
 
 <h3 style="font-family: monospace; color:#8B949E;font-weight:normal;text-transform:uppercase;">
